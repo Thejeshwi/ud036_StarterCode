@@ -2,7 +2,7 @@
 Source code for a Movie Trailer website.
 
 ### Screenshot
-![Main page](entertainment_website_screenshot.PNG)
+![Main page](movie_trailer_website_screenshot.PNG)
 
 ### Prerequisites
 
