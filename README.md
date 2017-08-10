@@ -1,9 +1,6 @@
 # Movie trailer website
 Source code for a Movie Trailer website.
 
-### Screenshot
-![Main page](movie_trailer_website_screenshot.PNG)
-
 ### Prerequisites
 
 In order to be able to run this program you will need to have installed Python 2.7.* or above
